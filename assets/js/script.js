@@ -366,7 +366,6 @@ function getAmazonApi(str){
         }
     })
     .then(function (response) {
-        console.log(response.status === 403);
         if (response.status === 403) {
             let container = $('#merchandise');
             container.html('');
