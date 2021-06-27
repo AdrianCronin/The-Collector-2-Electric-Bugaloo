@@ -1,13 +1,14 @@
-# The-Collector
+# The-Collector 
 A Marvel Collecters Wonderland!
+(My own forked version I have continued to develop)
 
 ## Description
 Have you ever wanted to explore the Marvel universe, but don’t know where to start? Do you want to start, or grow, your Marvel collection? Well you're in luck! Our application allows you to find new characters and story lines at your fingertips! Simply search for your favorite Marvel characters to see their picture, read their Bio, and learn more about their comic appearances! After searching a character, you will also be presented with popular character merchandise, courtesy of Amazon. You can save your searched characters so you can revisit them any time! If you want to explore different characters, let our search autocomplete suggest new characters for you!
 
 
-[Deployed Application](https://michellecoder.github.io/The-Collector)
+[Deployed Application](https://adriancronin.github.io/The-Collector-2-Electric-Bugaloo/)
 
-[GitHub Repo](https://github.com/michellecoder/The-Collector)
+[GitHub Repo](https://github.com/AdrianCronin/The-Collector-2-Electric-Bugaloo)
 
 ## Technologies used
 Built in Visual Studio with:
